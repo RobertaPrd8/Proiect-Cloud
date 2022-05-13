@@ -1,0 +1,14 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Maitrey",
+      "rating": "3"
+    },
+    {
+      "title": "Milsugi",
+      "rating": "7",
+      "id": 3
+    }
+  ]
+}
