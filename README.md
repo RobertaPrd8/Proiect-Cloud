@@ -1,7 +1,7 @@
 # Book Store
 ## Preda Roberta Ioana, grupa 1119
 
-
+Link prezentare: https://www.youtube.com/watch?v=2Ln6elqAguU
 ## Introducere
 
 Fiind unul dintre cele mai bune moduri de a-ti petrece timpul liber, cititul a devenit foarte popular in ultima vreme, cartile reprezentand un bun refugiu spiritual si mintal. Astfel, aplicatia dezvoltata reprezinta un online book shop prin care utilizatorul poate vizualiza carti si ratingurile lor.
