@@ -9,7 +9,6 @@ Fiind unul dintre cele mai bune moduri de a-ti petrece timpul liber, cititul a d
 ## Descriere problema
 
 In ultima vreme, majoritatea persoanelor prefera sa citeasca in confortul casei, preferand cumparaturile de tip online. Lucru care se aplica si pentru carti. Aplicatia vine in ajutorul acestora si nu numai, prin facilitarea accesului la o gama larga de carti.
-Prima pagina reprezinta o lista de carti cu 2 butoane, pentru editarea si adaugarea unor carti noi.
 
 ## Descriere API
 
