@@ -1,70 +1,24 @@
-# Getting Started with Create React App
+# Book Store
+## Preda Roberta Ioana, grupa 1119
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Introducere
 
-In the project directory, you can run:
+Fiind unul dintre cele mai bune moduri de a-ti petrece timpul liber, cititul a devenit foarte popular in ultima vreme, cartile reprezentand un bun refugiu spiritual si mintal. Astfel, aplicatia dezvoltata reprezinta un online book shop prin care utilizatorul poate vizualiza carti si ratingurile lor.
 
-### `npm start`
+## Descriere problema
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+In ultima vreme, majoritatea persoanelor prefera sa citeasca in confortul casei, preferand cumparaturile de tip online. Lucru care se aplica si pentru carti. Aplicatia vine in ajutorul acestora si nu numai, prin facilitarea accesului la o gama larga de carti.
+Prima pagina reprezinta o lista de carti cu 2 butoane, pentru editarea si adaugarea unor carti noi.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Descriere API
 
-### `npm test`
+Pentru parte de back-end am folosit fake Json(JsonServer), iar cu ajutorul acestui server am realizat urmatoarele API-uri.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### `API-ul de POST` - ce permite publicarea cartilor din Json
 
-### `npm run build`
+## `API-ul de PUT` - ce are rolul de a updata cartile dupa ce acestea au fost editate de catre utilizator
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## `API-ul de DELETE` - ce are rolul de a sterge cartile din tabela
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## `API-ul pentru adaugarea unei noi carti dupa utilizarea butonului de ADD Book` 
